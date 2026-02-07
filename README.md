@@ -4,7 +4,9 @@
 This project simulates a real-world IT help desk environment, including ticket creation, prioritization, escalation, and resolution.
 
 ## Tools Used 
-- Freshdesk / OSTicket - Windows 10 - Remote Desktop
+- Freshdesk 
+- Windows 10 
+- Remote Desktop
 
 ## Features 
 - User-submitted tickets
