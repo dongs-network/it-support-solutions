@@ -1,7 +1,17 @@
-# IT Support Ticketing System
+# 📁 Help Desk Ticketing System 
 
 ## Overview
-Comprehensive IT support management system integration with Spiceworks Help Desk for ticket tracking, documentation, and automation.
+This project simulates a real-world IT help desk environment, including ticket creation, prioritization, escalation, and resolution.
 
-## Technologies Used
-- **Ticketing**: Spiceworks Cloud Help Desk
+## Tools Used 
+- Freshdesk / OSTicket - Windows 10 - Remote Desktop
+
+## Features 
+- User-submitted tickets
+- Priority and category assignment
+- Incident documentation - Resolution tracking
+
+## Skills Demonstrated 
+- Tier 1 & Tier 2 IT Support 
+- Troubleshooting workflows
+- Technical documentation 
