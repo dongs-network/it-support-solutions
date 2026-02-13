@@ -4,7 +4,7 @@
 This project simulates a real-world IT help desk environment, including ticket creation, prioritization, escalation, and resolution.
 
 ## Tools Used 
-- Freshdesk 
+- Spiceworks 
 - Windows 10 
 - Remote Desktop
 
